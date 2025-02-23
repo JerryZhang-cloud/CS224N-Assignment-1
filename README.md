@@ -1,5 +1,5 @@
 # CS224N-Assignment-1
-finalized solution for assignment 1 related coding and submission result
+Finalized solution for assignment 1 related coding and submission result
 
 Jerry's solution for assignment 1
 
